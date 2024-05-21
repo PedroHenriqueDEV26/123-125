@@ -1,0 +1,23 @@
+body{
+    background-color: lightskyblue;
+}
+
+.heading{
+    font-size: 23px; 
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px ;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: rgb(224, 69, 69);
+}
+
